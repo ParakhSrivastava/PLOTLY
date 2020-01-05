@@ -1,3 +1,3 @@
 # Plotly Basics
-* **Static vs Dynamic**
+* **Static vs Dynamic Plots**
 * **Scatter Plots**
