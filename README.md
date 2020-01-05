@@ -1,2 +1,2 @@
 # PLOTLY
-Completed Training on PLOTLY charts and dashboards
+* **Plotly Basics**
