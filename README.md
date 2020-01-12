@@ -4,3 +4,6 @@
 * **Conversion**
 * **Dashboard Components**
 * **Callbacks**
+* **Multiple Inputs**
+* **Multiple Outputs**
+* **Controlling Callbacks**
